@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import { MenuItem } from '@material-ui/core';
+import { MenuItem } from '@material-ui/core'
 
 export default class MenuComponent extends Component {
     render() {

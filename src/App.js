@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import RotasComponent from './Rotas/RotasComponent'
-import Layout from './template/Layout';
+import RotasComponent from './componentes/Rotas/RotasComponent'
+import Layout from './componentes/template/LayoutComponent'
 class App extends Component {
   render() {
     return (

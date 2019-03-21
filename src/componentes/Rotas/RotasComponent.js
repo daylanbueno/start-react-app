@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom'
-import Home from '../Home'
-import ComponentTest from '../ComponentTest';
+import Home from '../HomeComponent'
+import ComponentTest from '../../ComponentTest';
 
 export default class RotasComponent extends Component {
     render() {
